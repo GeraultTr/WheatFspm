@@ -2,6 +2,7 @@ import os, sys
 import glob
 
 packages = '''
+adel
 respi-wheat
 farquhar-wheat
 elong-wheat
