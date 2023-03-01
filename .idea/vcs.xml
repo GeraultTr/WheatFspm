@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/adel" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cn-rhizodep" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cn-wheat" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/elong-wheat" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/farquhar-wheat" vcs="Git" />
