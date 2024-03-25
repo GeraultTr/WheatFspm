@@ -38,7 +38,6 @@ from openalea.deploy.multisetup import Multisetup
 
 dirs = """
 adel
-cn-rhizodep
 cn-wheat
 elong-wheat
 farquhar-wheat
