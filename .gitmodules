@@ -1,32 +1,32 @@
 [submodule "senesc-wheat"]
 	path = senesc-wheat
-	url = https://github.com/MTreestanG/senesc-wheat
+	url = https://github.com/MTreestanG/senesc-wheat.git
 	branch = master
 [submodule "growth-wheat"]
 	path = growth-wheat
-	url = https://github.com/MTreestanG/growth-wheat
+	url = https://github.com/MTreestanG/growth-wheat.git
 	branch = master
 [submodule "fspm-wheat"]
 	path = fspm-wheat
-	url = https://github.com/MTreestanG/fspm-wheat
+	url = https://github.com/MTreestanG/fspm-wheat.git
 	branch = master
 [submodule "farquhar-wheat"]
 	path = farquhar-wheat
-	url = https://github.com/openalea-incubator/farquhar-wheat
+	url = https://github.com/openalea-incubator/farquhar-wheat.git
 	branch = master
 [submodule "elong-wheat"]
 	path = elong-wheat
-	url = https://github.com/openalea-incubator/elong-wheat
+	url = https://github.com/openalea-incubator/elong-wheat.git
 	branch = master
 [submodule "cn-wheat"]
 	path = cn-wheat
-	url = https://github.com/MTreestanG/cn-wheat
+	url = https://github.com/MTreestanG/cn-wheat.git
 	branch = master
 [submodule "respi-wheat"]
 	path = respi-wheat
-	url = https://github.com/openalea-incubator/respi-wheat
+	url = https://github.com/openalea-incubator/respi-wheat.git
 	branch = master
 [submodule "adel"]
     path = adel
-    url = https://github.com/MTreestanG/adel
+    url = https://github.com/openalea-incubator/adel.git
     branch = python3

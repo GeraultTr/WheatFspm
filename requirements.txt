@@ -1,14 +1,16 @@
 # use : mamba create -n wheatfspm -c conda-forge -c openalea3 --strict-channel-priority --file requirements.txt
 python
 matplotlib
-statsmodel
+statsmodels
 # OpenAlea dependancies
-openalea.plantgl
+#openalea.plantgl
 openalea.mtg
 openalea.deploy
 openalea.lpy
-alinea.caribu
+# alinea.caribu
 alinea.astk
+openalea.sconsx 
+m2w64-toolchain
 
 # packaged dependancies
 # metafspm
