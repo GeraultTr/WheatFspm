@@ -2,6 +2,7 @@
 python
 matplotlib
 statsmodels
+scipy
 # OpenAlea dependancies
 #openalea.plantgl
 openalea.mtg
