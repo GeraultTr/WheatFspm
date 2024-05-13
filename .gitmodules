@@ -9,7 +9,7 @@
 [submodule "fspm-wheat"]
 	path = fspm-wheat
 	url = https://github.com/MTreestanG/fspm-wheat.git
-	branch = master
+	branch = main
 [submodule "farquhar-wheat"]
 	path = farquhar-wheat
 	url = https://github.com/openalea-incubator/farquhar-wheat.git
@@ -21,7 +21,7 @@
 [submodule "cn-wheat"]
 	path = cn-wheat
 	url = https://github.com/MTreestanG/cn-wheat.git
-	branch = master
+	branch = main
 [submodule "respi-wheat"]
 	path = respi-wheat
 	url = https://github.com/openalea-incubator/respi-wheat.git
@@ -29,4 +29,4 @@
 [submodule "adel"]
     path = adel
     url = https://github.com/openalea-incubator/adel.git
-    branch = python3
+    branch = master
